@@ -35,7 +35,7 @@ def bear_room
   elsif choice == "open door"
     gold_room
   else
-    puts "I got no idea what that means."
+    dead("No idea what that means. The bear kills you")
   end
 end
 
