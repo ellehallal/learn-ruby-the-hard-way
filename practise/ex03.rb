@@ -1,14 +1,14 @@
 puts "I will now count my chickens:"
 
 #Adds 25 to 30 and divides by 6
-puts "Hens #{25 + 30 / 6}"
-puts "Roosters #{100 - 25 * 3 % 4}"
+puts "Hens #{25.0 + 30.0 / 6.0}"
+puts "Roosters #{100.0 - 25.0 * 3.0 % 4.0}"
 
 puts "Now I will count the eggs"
 
 #left side of equation: adds 3, 2 and 1, then subtracts 5 and adds 4. Divides that by 2 and returns the remainder. The remainder -1
 #right side of equation: add 4 to 6
-puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+puts 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
 
 puts "Is it true that 3 + 2 < 5 - 7"
 
@@ -37,5 +37,5 @@ Study Drills
 - Above each line, use the # to write a comment to yourself explaining what the line does. - done
 - Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator. - done
 - Find something you need to calculate and write a new .rb file that does it. - done
-- Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point.
+- Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point. - done
 =end
