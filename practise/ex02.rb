@@ -1,4 +1,4 @@
-# A comment, this is so you can read your program later.
+# This is a comment. This is so you can read your program later.
 # Anything after the # is ignored by ruby.
 
 puts "I could have code like this" # and the comment after is ignored
