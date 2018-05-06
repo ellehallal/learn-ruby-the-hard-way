@@ -34,8 +34,8 @@ puts "Is it less or equal? #{5 <= -2}"
 
 =begin
 Study Drills
-- Above each line, use the # to write a comment to yourself explaining what the line does.
-- Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator.
-- Find something you need to calculate and write a new .rb file that does it.
+- Above each line, use the # to write a comment to yourself explaining what the line does. - done
+- Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator. - done
+- Find something you need to calculate and write a new .rb file that does it. - done
 - Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point.
 =end
