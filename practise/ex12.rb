@@ -17,6 +17,5 @@ puts "A smaller number is #{smaller}"
 - Changes integer to a float
 
 2. To play with .to_f more, make a small script that asks for some money and gives back 10% of it. If I give your script 103.4 (dollars), your script gives me back 10.34 in change.
-- See ex12-money
-
+- See ex12-money.rb
 =end
